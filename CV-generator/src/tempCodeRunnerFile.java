@@ -1,0 +1,1 @@
+ JPanel educationPanel = createTitledPanel("Educational Details", 30, 160, 920, 150
